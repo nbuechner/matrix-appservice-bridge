@@ -42,5 +42,4 @@ node_modules
 # Fuse files
 .fuse_*
 
-lib/
 tsconfig.tsbuildinfo
